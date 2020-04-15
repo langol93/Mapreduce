@@ -1,4 +1,2 @@
-# Mapreduce
-IMDB Persons MapReduce
 Mapreduce for IMDB Persons dataset.
-It counts director/actor people. 
+It maps person ID and job, reduce it and generate list with sum of job for every ID. 
